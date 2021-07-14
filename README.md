@@ -5,7 +5,7 @@ https://www.gosecure.net/docs/support/help-files/api/Index.htm
 
 Web API docs.
 
-Having this dataset in Liongard would help us solve a couple huge gaps with this particular product.
+Having this dataset in tools such a Liongard would help us solve a couple huge gaps with this particular product.
 
 Brightgauge Dashboard Reporting. There has never been very good reporting out of this tool, and the fact that the mailboxes (active users) are part of the configuration would allow us to provide active user metrics for our managed orgs in this system.
 
